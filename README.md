@@ -35,3 +35,6 @@ UNIX BOX SET UP VAGRANT
 
 #UNIT TEST FILE: 
 tournament_test containes a unit test method to test tournament.py method.
+
+#NOTE: 
+Code makes use of query parameters to protect against SQL injection.
